@@ -5,7 +5,7 @@ The calculator layout is designed to be simple, visually appealing, and easy to 
 HTML is used to structure the calculator buttons and display area, while CSS enhances the design with proper alignment, colors, and spacing. 
 This project is ideal for beginners to understand UI design and layout creation in front-end web development.
 
-## ✨ Key Features
+## 🎯 Key Features
 
 ⭐ Performs basic arithmetic operations like addition, subtraction, multiplication, and division<br>
 ⭐ Clean and attractive user interface<br>
