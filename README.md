@@ -21,6 +21,7 @@ This project is ideal for beginners to understand UI design and layout creation 
 ✅ **Code Editor** (VS Code / Notepad++) – Used for writing and editing the source code<br>
 ✅ **Web Browser** – Used to run and test the calculator application<br>
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/54cdb8f4-5532-49a1-9b2a-40a5869cc437" />
+## 🔍 OUTPUT RESULT
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/54cdb8f4-5532-49a1-9b2a-40a5869cc437" />
 
 
